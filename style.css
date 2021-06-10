@@ -84,7 +84,8 @@ a{ color: brown; }
 }
 
 .vid{
-  margin-top: 50px
+  margin-top: 30px;
+  margin-bottom: 50px;
 }
 
 .cadros {
@@ -145,12 +146,30 @@ a{ color: brown; }
 }
 
 
+.gogo{
+  border-radius: 15px;
+  background: #e4fbff;
+  margin: 10px;
+  padding:10px;
+
+}
+
+.bibi{
+  background: #e4fbff;
+  box-shadow: 10px 10px 10px grey ;
+}
 
 .item{
   margin: 10px 30px;
   display: flex-end;
 }
 
+.lac{
+  background: #e4fbff;
+  margin: 100px auto;
+  padding: 50px;
+  width: 700px;
+}
 
 i {
   font-size:  30px
@@ -158,4 +177,3 @@ i {
 
 
 
-  iframe {margin}
